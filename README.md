@@ -1,7 +1,9 @@
 # McGraw-Bot
 
-Author: 
+Author:
+
 GitHub - nrkorte
+
 Email - himtoo112@gmail.com
 
 
