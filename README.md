@@ -1,6 +1,6 @@
 # McGraw-Bot
 
-Author:
+Author: Nicholas Korte
 
 GitHub - nrkorte
 
